@@ -39,3 +39,14 @@ h2 {
     text-decoration: none;
     border-radius: 5px;
 }
+#about {
+    background-color: white;
+    margin-top: 30px;
+    padding: 40px;
+    border-radius: 10px;
+}
+
+#about ul {
+    list-style-position: inside;
+    padding: 0;
+}
