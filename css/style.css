@@ -50,3 +50,31 @@ h2 {
     list-style-position: inside;
     padding: 0;
 }
+#skills {
+    background-color: white;
+    margin-top: 30px;
+    padding: 40px;
+    border-radius: 10px;
+}
+
+.skills-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 20px;
+}
+
+.skill-card {
+    width: 200px;
+    padding: 20px;
+    background-color: #f4f4f4;
+    border-radius: 10px;
+}
+
+.skill-card h3 {
+    color: #333;
+}
+
+.skill-card p {
+    color: #555;
+}
