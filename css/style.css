@@ -275,6 +275,16 @@ tbody tr:hover {
     align-self: flex-start;
     margin-top: 15px;
 }
+/* ---------- Activity 9: Footer ---------- */
+footer {
+    background-color: #333;
+    padding: 20px;
+}
+ 
+footer p {
+    color: white;
+    margin: 0;
+} 
 /* ---------- Activity 8: Responsive ---------- */
 @media (max-width: 768px) {
     main {
